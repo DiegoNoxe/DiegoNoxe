@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Diego | Hello, I'm Diego👋
 
+![snake gif](https://github.com/DiegoNoxe/DiegoNoxe/blob/output/github-contribution-grid-snake.gif)
+
 <h2> Linguagens que utilizo atualmente | Languages I'm currently using</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
